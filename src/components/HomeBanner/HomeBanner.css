@@ -1,0 +1,24 @@
+.banner {
+  position: relative;
+}
+.bannerVideo {
+  width: 100%;
+  height: 100%;
+}
+
+.banner_content {
+  width: 100%;
+  color: #fff;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.banner_header {
+  /* font-size: 40px; */
+}
+
+.banner_text {
+  font-size: 24px;
+}

@@ -1,0 +1,14 @@
+.info_bg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(../../resources/SlantBG.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
+.card_img {
+  position: relative;
+  top: 170px;
+}
